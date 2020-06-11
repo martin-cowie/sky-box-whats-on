@@ -2,6 +2,10 @@
   "name": "sky-box-whats-on",
   "version": "1.0.0",
   "description": "Find a Sky Plus 'SkyBox' and log what's being watched",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martin-cowie/sky-box-whats-on"
+  },
   "main": "whatson.js",
   "scripts": {
     "start": "ts-node whatson.ts"
@@ -11,6 +15,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cli-progress": "^3.8.2",
+    "log-timestamp": "^0.3.0",
     "node-ssdp": "^4.0.0",
     "node-upnp": "^1.2.0",
     "xmldom": "^0.3.0"

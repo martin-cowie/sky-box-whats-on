@@ -1,4 +1,6 @@
 const UPnPClient = require('node-upnp');
+require('log-timestamp');
+
 import axios from 'axios';
 import {DOMParser} from 'xmldom';
 import {SingleBar} from 'cli-progress';
