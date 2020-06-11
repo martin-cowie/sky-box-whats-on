@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/martin-cowie/sky-box-whats-on"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "main": "whatson.js",
   "scripts": {
     "start": "ts-node whatson.ts"
