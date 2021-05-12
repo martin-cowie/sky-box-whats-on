@@ -16,7 +16,7 @@
   "author": "Martin Cowie",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cli-progress": "^3.8.2",
     "log-timestamp": "^0.3.0",
     "node-ssdp": "^4.0.0",
