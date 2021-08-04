@@ -21,7 +21,7 @@
     "log-timestamp": "^0.3.0",
     "node-ssdp": "^4.0.0",
     "node-upnp": "^1.2.0",
-    "xmldom": "^0.3.0"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@types/cli-progress": "^3.7.0",
